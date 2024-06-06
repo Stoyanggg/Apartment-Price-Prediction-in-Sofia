@@ -1,6 +1,6 @@
 # Apartment Price Prediction in Sofia
 
-This project aims to predict apartment prices in Sofia by scraping data from the website Imot.bg. The gathered data includes various attributes of selling apartments in Sofia, such as location, size, and amenities. The project involves data cleaning, manipulation, visualization, and the development of machine learning models for price prediction.
+This project aims to predict apartment prices in Sofia by scraping data from the website Imot.bg. The gathered data includes various attributes of selling apartments in Sofia, such as location, parameters, and price. The project involves data cleaning, manipulation, visualization, and the development of machine learning models for price prediction.
 
 ## Data Collection
 
